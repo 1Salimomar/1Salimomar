@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Salimomar
+- 👋 Hi, I’m @leminomar
 - 👀 I’m interested in web developement and design
 - 🌱 I’m currently learning ui/ux design
 - 💞️ I’m looking to collaborate on ...
